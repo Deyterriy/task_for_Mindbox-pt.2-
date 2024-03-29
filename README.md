@@ -15,3 +15,5 @@
     python3 -m pip install -r requirements.txt
     ```
 4. Запустить код
+
+Для запуска также может потребоваться установленая Java Oracle, скачать акутальную версию можно на оф. сайте https://www.oracle.com/java/technologies/downloads/#jdk22-mac
